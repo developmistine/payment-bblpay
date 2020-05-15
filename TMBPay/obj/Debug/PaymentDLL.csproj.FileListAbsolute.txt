@@ -1,0 +1,163 @@
+D:\BBL - Copy\TMBPay\obj\Debug\PaymentDLL.csprojAssemblyReference.cache
+D:\BBL - Copy\TMBPay\obj\Debug\PaymentDLL.csproj.CoreCompileInputs.cache
+D:\BBL - Copy\TMBPay\obj\Debug\TMBPay.dll
+D:\BBL - Copy\TMBPay\obj\Debug\TMBPay.pdb
+D:\PaymentBBL\PaymentBBL\TMBPay\obj\Debug\PaymentDLL.csprojAssemblyReference.cache
+D:\PaymentBBL\PaymentBBL\TMBPay\obj\Debug\PaymentDLL.csproj.CoreCompileInputs.cache
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\TMBPay.dll.config
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\TMBPay.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\TMBPay.pdb
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\Antlr3.Runtime.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\EntityFramework.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\GroupDocs.Conversion.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\Jsonstructure.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\Microsoft.Web.Infrastructure.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\Newtonsoft.Json.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\PaymentClassBusiness.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\System.Net.Http.Formatting.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Helpers.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Http.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Http.WebHost.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Mvc.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Optimization.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Providers.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Razor.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.WebPages.Deployment.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.WebPages.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.WebPages.Razor.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\WebGrease.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\MySql.Data.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\PaymentProject.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\Jsonstructure.pdb
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\PaymentClassBusiness.pdb
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\GroupDocs.Conversion.xml
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\EntityFramework.xml
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\Newtonsoft.Json.xml
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\System.Net.Http.Formatting.xml
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Helpers.xml
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Http.xml
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Http.WebHost.xml
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Mvc.xml
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Razor.xml
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.WebPages.xml
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.WebPages.Deployment.xml
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.WebPages.Razor.xml
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\PaymentProject.pdb
+D:\PaymentBBL\PaymentBBL\TMBPay\obj\Debug\PaymentDLL.csproj.CopyComplete
+D:\PaymentBBL\PaymentBBL\TMBPay\obj\Debug\TMBPay.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\obj\Debug\TMBPay.pdb
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\ClassLibrary1.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\ClassLibrary1.pdb
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\TMBPay.dll.config
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\TMBPay.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\TMBPay.pdb
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\Antlr3.Runtime.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\EntityFramework.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\GroupDocs.Conversion.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\Jsonstructure.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\Microsoft.Web.Infrastructure.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\Newtonsoft.Json.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\PaymentClassBusiness.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\System.Net.Http.Formatting.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Helpers.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Http.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Http.WebHost.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Mvc.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Optimization.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Providers.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Razor.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.WebPages.Deployment.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.WebPages.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.WebPages.Razor.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\WebGrease.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\MySql.Data.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\PaymentProject.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\ClassLibrary1.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\Jsonstructure.pdb
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\PaymentClassBusiness.pdb
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\GroupDocs.Conversion.xml
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\EntityFramework.xml
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\Newtonsoft.Json.xml
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\System.Net.Http.Formatting.xml
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Helpers.xml
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Http.xml
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Http.WebHost.xml
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Mvc.xml
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Razor.xml
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.WebPages.xml
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.WebPages.Deployment.xml
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.WebPages.Razor.xml
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\PaymentProject.pdb
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\ClassLibrary1.pdb
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\obj\Debug\PaymentDLL.csprojAssemblyReference.cache
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\obj\Debug\PaymentDLL.csproj.CoreCompileInputs.cache
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\obj\Debug\PaymentDLL.csproj.CopyComplete
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\obj\Debug\TMBPay.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\obj\Debug\TMBPay.pdb
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\itextsharp.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\Spire.Pdf.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\Spire.License.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\Microsoft.mshtml.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\Spire.Pdf.xml
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\Spire.License.xml
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\itextsharp.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\Spire.Pdf.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\Microsoft.mshtml.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\Spire.License.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\Spire.License.xml
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\obj\Debug\PaymentDLL.csprojAssemblyReference.cache
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\obj\Debug\PaymentDLL.csproj.CoreCompileInputs.cache
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\TMBPay.dll.config
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\TMBPay.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\TMBPay.pdb
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\Antlr3.Runtime.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\ClassLibrary1.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\EntityFramework.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\GroupDocs.Conversion.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\Jsonstructure.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\Microsoft.Web.Infrastructure.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\Newtonsoft.Json.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\PaymentClassBusiness.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\System.Net.Http.Formatting.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Helpers.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Http.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Http.WebHost.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Mvc.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Optimization.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Providers.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Razor.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.WebPages.Deployment.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.WebPages.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.WebPages.Razor.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\WebGrease.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\MySql.Data.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\PaymentProject.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\itextsharp.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\Spire.Pdf.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\Microsoft.mshtml.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\ClassLibrary1.pdb
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\Jsonstructure.pdb
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\PaymentClassBusiness.pdb
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\GroupDocs.Conversion.xml
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\EntityFramework.xml
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\Newtonsoft.Json.xml
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\System.Net.Http.Formatting.xml
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Helpers.xml
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Http.xml
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Http.WebHost.xml
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Mvc.xml
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.Razor.xml
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.WebPages.xml
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.WebPages.Deployment.xml
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\System.Web.WebPages.Razor.xml
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\PaymentProject.pdb
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\obj\Debug\PaymentDLL.csproj.CopyComplete
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\obj\Debug\TMBPay.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\obj\Debug\TMBPay.pdb
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\Spire.License.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\Spire.License.xml
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\QRcodeGen.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\zxing.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\QRcodeGen.pdb
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\zxing.pdb
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\zxing.xml

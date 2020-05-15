@@ -1,0 +1,15 @@
+E:\work\payment-tmbpay\PaymentProject\bin\Release\PaymentProject.dll
+E:\work\payment-tmbpay\PaymentProject\bin\Release\PaymentProject.pdb
+E:\work\payment-tmbpay\PaymentProject\bin\Release\itextsharp.dll
+E:\work\payment-tmbpay\PaymentProject\bin\Release\MySql.Data.dll
+E:\work\payment-tmbpay\PaymentProject\bin\Release\Newtonsoft.Json.dll
+E:\work\payment-tmbpay\PaymentProject\bin\Release\Spire.License.dll
+E:\work\payment-tmbpay\PaymentProject\bin\Release\Spire.Pdf.dll
+E:\work\payment-tmbpay\PaymentProject\bin\Release\Newtonsoft.Json.xml
+E:\work\payment-tmbpay\PaymentProject\bin\Release\Spire.License.xml
+E:\work\payment-tmbpay\PaymentProject\bin\Release\Spire.Pdf.xml
+E:\work\payment-tmbpay\PaymentProject\obj\Release\PaymentProject.csprojAssemblyReference.cache
+E:\work\payment-tmbpay\PaymentProject\obj\Release\PaymentProject.csproj.CoreCompileInputs.cache
+E:\work\payment-tmbpay\PaymentProject\obj\Release\PaymentProject.csproj.CopyComplete
+E:\work\payment-tmbpay\PaymentProject\obj\Release\PaymentProject.dll
+E:\work\payment-tmbpay\PaymentProject\obj\Release\PaymentProject.pdb

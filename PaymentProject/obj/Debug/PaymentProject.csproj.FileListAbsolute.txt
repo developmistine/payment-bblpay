@@ -1,0 +1,59 @@
+C:\APP\QRCODETMB\TMBPay\PaymentProject\bin\Debug\PaymentProject.dll
+C:\APP\QRCODETMB\TMBPay\PaymentProject\bin\Debug\PaymentProject.pdb
+C:\APP\QRCODETMB\TMBPay\PaymentProject\bin\Debug\Newtonsoft.Json.dll
+C:\APP\QRCODETMB\TMBPay\PaymentProject\bin\Debug\Newtonsoft.Json.xml
+C:\APP\QRCODETMB\TMBPay\TMBPay\bin\PaymentProject.dll
+C:\APP\QRCODETMB\TMBPay\TMBPay\bin\PaymentProject.pdb
+C:\APP\QRCODETMB\TMBPay\PaymentProject\obj\Debug\PaymentProject.dll
+C:\APP\QRCODETMB\TMBPay\PaymentProject\obj\Debug\PaymentProject.pdb
+D:\APP2018\QRCODETMB\TMBPay\TMBPay\bin\PaymentProject.dll
+D:\APP2018\QRCODETMB\TMBPay\TMBPay\bin\PaymentProject.pdb
+D:\APP2018\QRCODETMB\TMBPay\PaymentProject\obj\Debug\PaymentProject.dll
+D:\APP2018\QRCODETMB\TMBPay\PaymentProject\obj\Debug\PaymentProject.pdb
+C:\Users\surasak_p\Desktop\TMBPay\TMBPay\bin\PaymentProject.dll
+C:\Users\surasak_p\Desktop\TMBPay\TMBPay\bin\PaymentProject.pdb
+C:\Users\surasak_p\Desktop\TMBPay\PaymentProject\obj\Debug\PaymentProject.csproj.CoreCompileInputs.cache
+C:\Users\surasak_p\Desktop\TMBPay\PaymentProject\obj\Debug\PaymentProject.csproj.CopyComplete
+C:\Users\surasak_p\Desktop\TMBPay\PaymentProject\obj\Debug\PaymentProject.dll
+C:\Users\surasak_p\Desktop\TMBPay\PaymentProject\obj\Debug\PaymentProject.pdb
+C:\Users\surasak_p\Desktop\TMBPay\PaymentProject\obj\Debug\PaymentProject.csprojAssemblyReference.cache
+D:\payment-tmbpay\TMBPay\bin\PaymentProject.dll
+D:\payment-tmbpay\TMBPay\bin\PaymentProject.pdb
+D:\payment-tmbpay\PaymentProject\obj\Debug\PaymentProject.csproj.CoreCompileInputs.cache
+D:\payment-tmbpay\PaymentProject\obj\Debug\PaymentProject.csproj.CopyComplete
+D:\payment-tmbpay\PaymentProject\obj\Debug\PaymentProject.dll
+D:\payment-tmbpay\PaymentProject\obj\Debug\PaymentProject.pdb
+C:\Docuno\Payment\payment-tmbpay\TMBPay\bin\PaymentProject.dll
+C:\Docuno\Payment\payment-tmbpay\TMBPay\bin\PaymentProject.pdb
+C:\Docuno\Payment\payment-tmbpay\PaymentProject\obj\Debug\PaymentProject.csproj.CoreCompileInputs.cache
+C:\Docuno\Payment\payment-tmbpay\PaymentProject\obj\Debug\PaymentProject.csproj.CopyComplete
+C:\Docuno\Payment\payment-tmbpay\PaymentProject\obj\Debug\PaymentProject.dll
+C:\Docuno\Payment\payment-tmbpay\PaymentProject\obj\Debug\PaymentProject.pdb
+E:\งานแมน\payment-tmbpay\TMBPay\bin\PaymentProject.dll
+E:\งานแมน\payment-tmbpay\TMBPay\bin\PaymentProject.pdb
+E:\งานแมน\payment-tmbpay\PaymentProject\obj\Debug\PaymentProject.csproj.CoreCompileInputs.cache
+E:\งานแมน\payment-tmbpay\PaymentProject\obj\Debug\PaymentProject.csproj.CopyComplete
+E:\งานแมน\payment-tmbpay\PaymentProject\obj\Debug\PaymentProject.dll
+E:\งานแมน\payment-tmbpay\PaymentProject\obj\Debug\PaymentProject.pdb
+E:\work\payment-tmbpay\TMBPay\bin\PaymentProject.dll
+E:\work\payment-tmbpay\TMBPay\bin\PaymentProject.pdb
+E:\work\payment-tmbpay\PaymentProject\obj\Debug\PaymentProject.csproj.CoreCompileInputs.cache
+E:\work\payment-tmbpay\PaymentProject\obj\Debug\PaymentProject.csproj.CopyComplete
+E:\work\payment-tmbpay\PaymentProject\obj\Debug\PaymentProject.dll
+E:\work\payment-tmbpay\PaymentProject\obj\Debug\PaymentProject.pdb
+E:\work\payment-tmbpay\PaymentProject\obj\Debug\PaymentProject.csprojAssemblyReference.cache
+D:\payment-tmbpay\PaymentProject\obj\Debug\PaymentProject.csprojAssemblyReference.cache
+D:\BBL\TMBPay\bin\PaymentProject.dll
+D:\BBL\TMBPay\bin\PaymentProject.pdb
+D:\BBL\PaymentProject\obj\Debug\PaymentProject.csproj.CoreCompileInputs.cache
+D:\BBL\PaymentProject\obj\Debug\PaymentProject.csproj.CopyComplete
+D:\BBL\PaymentProject\obj\Debug\PaymentProject.dll
+D:\BBL\PaymentProject\obj\Debug\PaymentProject.pdb
+D:\BBL\PaymentProject\obj\Debug\PaymentProject.csprojAssemblyReference.cache
+D:\BBL - Copy\PaymentProject\obj\Debug\PaymentProject.csproj.CoreCompileInputs.cache
+D:\BBL - Copy\PaymentProject\obj\Debug\PaymentProject.dll
+D:\BBL - Copy\PaymentProject\obj\Debug\PaymentProject.pdb
+D:\BBL - Copy\TMBPay\bin\PaymentProject.dll
+D:\BBL - Copy\TMBPay\bin\PaymentProject.pdb
+D:\BBL - Copy\PaymentProject\obj\Debug\PaymentProject.csproj.CopyComplete
+D:\BBL - Copy\PaymentProject\obj\Debug\PaymentProject.csprojAssemblyReference.cache

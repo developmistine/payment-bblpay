@@ -1,0 +1,12 @@
+C:\APP\QRCODETMB\TMBPay\PaymentProject\bin\Debug\PaymentProject.dll
+C:\APP\QRCODETMB\TMBPay\PaymentProject\bin\Debug\PaymentProject.pdb
+C:\APP\QRCODETMB\TMBPay\PaymentProject\bin\Debug\Newtonsoft.Json.dll
+C:\APP\QRCODETMB\TMBPay\PaymentProject\bin\Debug\Newtonsoft.Json.xml
+C:\APP\QRCODETMB\TMBPay\TMBPay\bin\PaymentProject.dll
+C:\APP\QRCODETMB\TMBPay\TMBPay\bin\PaymentProject.pdb
+C:\APP\QRCODETMB\TMBPay\PaymentProject\obj\Debug\PaymentProject.dll
+C:\APP\QRCODETMB\TMBPay\PaymentProject\obj\Debug\PaymentProject.pdb
+D:\APP2018\QRCODETMB\TMBPay\TMBPay\bin\PaymentProject.dll
+D:\APP2018\QRCODETMB\TMBPay\TMBPay\bin\PaymentProject.pdb
+D:\APP2018\QRCODETMB\TMBPay\PaymentProject\obj\Debug\PaymentProject.dll
+D:\APP2018\QRCODETMB\TMBPay\PaymentProject\obj\Debug\PaymentProject.pdb

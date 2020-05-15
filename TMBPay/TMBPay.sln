@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMBPay", "TMBPay\TMBPay.csproj", "{1487770C-08F7-4F0D-B94A-2B7BB551B346}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentProject", "PaymentProject\PaymentProject.csproj", "{3BBA4386-2A52-40F9-A611-F38BC207491E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1487770C-08F7-4F0D-B94A-2B7BB551B346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1487770C-08F7-4F0D-B94A-2B7BB551B346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1487770C-08F7-4F0D-B94A-2B7BB551B346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1487770C-08F7-4F0D-B94A-2B7BB551B346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BBA4386-2A52-40F9-A611-F38BC207491E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BBA4386-2A52-40F9-A611-F38BC207491E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BBA4386-2A52-40F9-A611-F38BC207491E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BBA4386-2A52-40F9-A611-F38BC207491E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

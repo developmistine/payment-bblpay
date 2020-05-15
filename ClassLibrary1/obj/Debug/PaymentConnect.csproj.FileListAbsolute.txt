@@ -1,0 +1,57 @@
+D:\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\Jsonstructure.dll
+D:\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\PaymentProject.dll
+D:\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\MySql.Data.dll
+D:\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\Jsonstructure.pdb
+D:\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\PaymentProject.pdb
+D:\PaymentBBL\PaymentBBL\ClassLibrary1\obj\Debug\PaymentConnect.csprojAssemblyReference.cache
+D:\PaymentBBL\PaymentBBL\ClassLibrary1\obj\Debug\PaymentConnect.csproj.CoreCompileInputs.cache
+D:\PaymentBBL\PaymentBBL\ClassLibrary1\obj\Debug\PaymentConnect.csproj.CopyComplete
+D:\PaymentBBL\PaymentBBL\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\PaymentBBL\PaymentBBL\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\Jsonstructure.dll
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\PaymentProject.dll
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\MySql.Data.dll
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\Jsonstructure.pdb
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\PaymentProject.pdb
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\obj\Debug\PaymentConnect.csprojAssemblyReference.cache
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\obj\Debug\PaymentConnect.csproj.CoreCompileInputs.cache
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\obj\Debug\PaymentConnect.csproj.CopyComplete
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\itextsharp.dll
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\Spire.Pdf.dll
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\Spire.License.dll
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\Microsoft.mshtml.dll
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\Spire.Pdf.xml
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\Spire.License.xml
+D:\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\itextsharp.dll
+D:\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+D:\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\Microsoft.mshtml.dll
+D:\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+D:\Project BBL\PaymentBBL\PaymentBBL\ClassLibrary1\obj\Debug\PaymentConnect.csprojAssemblyReference.cache
+D:\Project BBL\PaymentBBL\PaymentBBL\ClassLibrary1\obj\Debug\PaymentConnect.csproj.CoreCompileInputs.cache
+D:\Project BBL\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Project BBL\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\itextsharp.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\Jsonstructure.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\MySql.Data.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\PaymentProject.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\Microsoft.mshtml.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\Jsonstructure.pdb
+D:\Project BBL\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\PaymentProject.pdb
+D:\Project BBL\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+D:\Project BBL\PaymentBBL\PaymentBBL\ClassLibrary1\obj\Debug\PaymentConnect.csproj.CopyComplete
+D:\Project BBL\PaymentBBL\PaymentBBL\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\QRcodeGen.dll
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\zxing.dll
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\QRcodeGen.pdb
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\zxing.pdb
+C:\OWN\PaymentBBL\PaymentBBL\ClassLibrary1\bin\Debug\zxing.xml

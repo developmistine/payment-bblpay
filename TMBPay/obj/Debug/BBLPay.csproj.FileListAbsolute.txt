@@ -1,0 +1,92 @@
+D:\BBL\TMBPay\bin\TMBPay.dll.config
+D:\BBL\TMBPay\bin\TMBPay.dll
+D:\BBL\TMBPay\bin\TMBPay.pdb
+D:\BBL\TMBPay\bin\Antlr3.Runtime.dll
+D:\BBL\TMBPay\bin\EntityFramework.dll
+D:\BBL\TMBPay\bin\GroupDocs.Conversion.dll
+D:\BBL\TMBPay\bin\Microsoft.Web.Infrastructure.dll
+D:\BBL\TMBPay\bin\Newtonsoft.Json.dll
+D:\BBL\TMBPay\bin\System.Net.Http.dll
+D:\BBL\TMBPay\bin\System.Net.Http.Formatting.dll
+D:\BBL\TMBPay\bin\System.Net.Http.WebRequest.dll
+D:\BBL\TMBPay\bin\System.Web.Helpers.dll
+D:\BBL\TMBPay\bin\System.Web.Http.dll
+D:\BBL\TMBPay\bin\System.Web.Http.WebHost.dll
+D:\BBL\TMBPay\bin\System.Web.Mvc.dll
+D:\BBL\TMBPay\bin\System.Web.Optimization.dll
+D:\BBL\TMBPay\bin\System.Web.Providers.dll
+D:\BBL\TMBPay\bin\System.Web.Razor.dll
+D:\BBL\TMBPay\bin\System.Web.WebPages.Deployment.dll
+D:\BBL\TMBPay\bin\System.Web.WebPages.dll
+D:\BBL\TMBPay\bin\System.Web.WebPages.Razor.dll
+D:\BBL\TMBPay\bin\WebGrease.dll
+D:\BBL\TMBPay\bin\MySql.Data.dll
+D:\BBL\TMBPay\bin\GroupDocs.Conversion.xml
+D:\BBL\TMBPay\bin\EntityFramework.xml
+D:\BBL\TMBPay\bin\Newtonsoft.Json.xml
+D:\BBL\TMBPay\bin\System.Net.Http.xml
+D:\BBL\TMBPay\bin\System.Net.Http.Formatting.xml
+D:\BBL\TMBPay\bin\System.Net.Http.WebRequest.xml
+D:\BBL\TMBPay\bin\System.Web.Helpers.xml
+D:\BBL\TMBPay\bin\System.Web.Http.xml
+D:\BBL\TMBPay\bin\System.Web.Http.WebHost.xml
+D:\BBL\TMBPay\bin\System.Web.Mvc.xml
+D:\BBL\TMBPay\bin\System.Web.Razor.xml
+D:\BBL\TMBPay\bin\System.Web.WebPages.xml
+D:\BBL\TMBPay\bin\System.Web.WebPages.Deployment.xml
+D:\BBL\TMBPay\bin\System.Web.WebPages.Razor.xml
+D:\BBL\TMBPay\obj\Debug\BBLPay.csprojAssemblyReference.cache
+D:\BBL\TMBPay\obj\Debug\BBLPay.csproj.CoreCompileInputs.cache
+D:\BBL\TMBPay\obj\Debug\BBLPay.csproj.CopyComplete
+D:\BBL\TMBPay\obj\Debug\TMBPay.dll
+D:\BBL\TMBPay\obj\Debug\TMBPay.pdb
+D:\BBL\TMBPay\bin\itextsharp.dll
+D:\BBL\TMBPay\bin\Spire.Pdf.dll
+D:\BBL\TMBPay\bin\Spire.License.dll
+D:\BBL\TMBPay\bin\Microsoft.mshtml.dll
+D:\BBL\TMBPay\bin\PaymentProject.pdb
+D:\BBL\TMBPay\bin\Spire.Pdf.xml
+D:\BBL\TMBPay\bin\Spire.License.xml
+D:\BBL - Copy\TMBPay\obj\Debug\BBLPay.csprojAssemblyReference.cache
+D:\BBL - Copy\TMBPay\obj\Debug\BBLPay.csproj.CoreCompileInputs.cache
+D:\BBL - Copy\TMBPay\obj\Debug\TMBPay.dll
+D:\BBL - Copy\TMBPay\obj\Debug\TMBPay.pdb
+D:\BBL - Copy\TMBPay\bin\TMBPay.dll.config
+D:\BBL - Copy\TMBPay\bin\TMBPay.dll
+D:\BBL - Copy\TMBPay\bin\TMBPay.pdb
+D:\BBL - Copy\TMBPay\bin\Antlr3.Runtime.dll
+D:\BBL - Copy\TMBPay\bin\EntityFramework.dll
+D:\BBL - Copy\TMBPay\bin\GroupDocs.Conversion.dll
+D:\BBL - Copy\TMBPay\bin\Microsoft.Web.Infrastructure.dll
+D:\BBL - Copy\TMBPay\bin\Newtonsoft.Json.dll
+D:\BBL - Copy\TMBPay\bin\System.Net.Http.dll
+D:\BBL - Copy\TMBPay\bin\System.Net.Http.Formatting.dll
+D:\BBL - Copy\TMBPay\bin\System.Net.Http.WebRequest.dll
+D:\BBL - Copy\TMBPay\bin\System.Web.Helpers.dll
+D:\BBL - Copy\TMBPay\bin\System.Web.Http.dll
+D:\BBL - Copy\TMBPay\bin\System.Web.Http.WebHost.dll
+D:\BBL - Copy\TMBPay\bin\System.Web.Mvc.dll
+D:\BBL - Copy\TMBPay\bin\System.Web.Optimization.dll
+D:\BBL - Copy\TMBPay\bin\System.Web.Providers.dll
+D:\BBL - Copy\TMBPay\bin\System.Web.Razor.dll
+D:\BBL - Copy\TMBPay\bin\System.Web.WebPages.Deployment.dll
+D:\BBL - Copy\TMBPay\bin\System.Web.WebPages.dll
+D:\BBL - Copy\TMBPay\bin\System.Web.WebPages.Razor.dll
+D:\BBL - Copy\TMBPay\bin\WebGrease.dll
+D:\BBL - Copy\TMBPay\bin\MySql.Data.dll
+D:\BBL - Copy\TMBPay\bin\GroupDocs.Conversion.xml
+D:\BBL - Copy\TMBPay\bin\EntityFramework.xml
+D:\BBL - Copy\TMBPay\bin\Newtonsoft.Json.xml
+D:\BBL - Copy\TMBPay\bin\System.Net.Http.xml
+D:\BBL - Copy\TMBPay\bin\System.Net.Http.Formatting.xml
+D:\BBL - Copy\TMBPay\bin\System.Net.Http.WebRequest.xml
+D:\BBL - Copy\TMBPay\bin\System.Web.Helpers.xml
+D:\BBL - Copy\TMBPay\bin\System.Web.Http.xml
+D:\BBL - Copy\TMBPay\bin\System.Web.Http.WebHost.xml
+D:\BBL - Copy\TMBPay\bin\System.Web.Mvc.xml
+D:\BBL - Copy\TMBPay\bin\System.Web.Razor.xml
+D:\BBL - Copy\TMBPay\bin\System.Web.WebPages.xml
+D:\BBL - Copy\TMBPay\bin\System.Web.WebPages.Deployment.xml
+D:\BBL - Copy\TMBPay\bin\System.Web.WebPages.Razor.xml
+D:\BBL - Copy\TMBPay\obj\Debug\BBLPay.csproj.CopyComplete
+D:\BBL - Copy\TMBPay\bin\PaymentProject.pdb

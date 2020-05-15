@@ -1,0 +1,27 @@
+D:\BBL - Copy\TMBPay\bin\PaymentProject.dll
+D:\BBL - Copy\TMBPay\bin\PaymentProject.pdb
+D:\BBL - Copy\PaymentProject\obj\Debug\PaymentConnecttion.csproj.CoreCompileInputs.cache
+D:\BBL - Copy\PaymentProject\obj\Debug\PaymentConnecttion.csproj.CopyComplete
+D:\BBL - Copy\PaymentProject\obj\Debug\PaymentProject.dll
+D:\BBL - Copy\PaymentProject\obj\Debug\PaymentProject.pdb
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\PaymentProject.dll
+D:\PaymentBBL\PaymentBBL\TMBPay\bin\PaymentProject.pdb
+D:\PaymentBBL\PaymentBBL\PaymentProject\obj\Debug\PaymentConnecttion.csprojAssemblyReference.cache
+D:\PaymentBBL\PaymentBBL\PaymentProject\obj\Debug\PaymentConnecttion.csproj.CoreCompileInputs.cache
+D:\PaymentBBL\PaymentBBL\PaymentProject\obj\Debug\PaymentConnecttion.csproj.CopyComplete
+D:\PaymentBBL\PaymentBBL\PaymentProject\obj\Debug\PaymentProject.dll
+D:\PaymentBBL\PaymentBBL\PaymentProject\obj\Debug\PaymentProject.pdb
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\PaymentProject.dll
+C:\OWN\PaymentBBL\PaymentBBL\TMBPay\bin\PaymentProject.pdb
+C:\OWN\PaymentBBL\PaymentBBL\PaymentProject\obj\Debug\PaymentConnecttion.csprojAssemblyReference.cache
+C:\OWN\PaymentBBL\PaymentBBL\PaymentProject\obj\Debug\PaymentConnecttion.csproj.CoreCompileInputs.cache
+C:\OWN\PaymentBBL\PaymentBBL\PaymentProject\obj\Debug\PaymentConnecttion.csproj.CopyComplete
+C:\OWN\PaymentBBL\PaymentBBL\PaymentProject\obj\Debug\PaymentProject.dll
+C:\OWN\PaymentBBL\PaymentBBL\PaymentProject\obj\Debug\PaymentProject.pdb
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\PaymentProject.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\TMBPay\bin\PaymentProject.pdb
+D:\Project BBL\PaymentBBL\PaymentBBL\PaymentProject\obj\Debug\PaymentConnecttion.csprojAssemblyReference.cache
+D:\Project BBL\PaymentBBL\PaymentBBL\PaymentProject\obj\Debug\PaymentConnecttion.csproj.CoreCompileInputs.cache
+D:\Project BBL\PaymentBBL\PaymentBBL\PaymentProject\obj\Debug\PaymentConnecttion.csproj.CopyComplete
+D:\Project BBL\PaymentBBL\PaymentBBL\PaymentProject\obj\Debug\PaymentProject.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\PaymentProject\obj\Debug\PaymentProject.pdb

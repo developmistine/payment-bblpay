@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentDLL", "TMBPay\PaymentDLL.csproj", "{1487770C-08F7-4F0D-B94A-2B7BB551B346}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentConnecttion", "PaymentProject\PaymentConnecttion.csproj", "{3BBA4386-2A52-40F9-A611-F38BC207491E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentClassBusiness", "PaymentClassBusiness\PaymentClassBusiness.csproj", "{CBD57A25-C285-482F-881D-D008F71D8C61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jsonstructure", "Jsonstructure\Jsonstructure.csproj", "{677CF8D9-4059-4DAC-91CD-EBAF22CBF848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentConnect", "ClassLibrary1\PaymentConnect.csproj", "{89189FDD-6818-4E02-99A0-FC88853D0BB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRcodeGen", "QRcodeGen\QRcodeGen.csproj", "{B6609C57-AB06-4E46-90AE-CD9FA0CD787F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1487770C-08F7-4F0D-B94A-2B7BB551B346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1487770C-08F7-4F0D-B94A-2B7BB551B346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1487770C-08F7-4F0D-B94A-2B7BB551B346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1487770C-08F7-4F0D-B94A-2B7BB551B346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BBA4386-2A52-40F9-A611-F38BC207491E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BBA4386-2A52-40F9-A611-F38BC207491E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BBA4386-2A52-40F9-A611-F38BC207491E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BBA4386-2A52-40F9-A611-F38BC207491E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBD57A25-C285-482F-881D-D008F71D8C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD57A25-C285-482F-881D-D008F71D8C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD57A25-C285-482F-881D-D008F71D8C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD57A25-C285-482F-881D-D008F71D8C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{677CF8D9-4059-4DAC-91CD-EBAF22CBF848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677CF8D9-4059-4DAC-91CD-EBAF22CBF848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677CF8D9-4059-4DAC-91CD-EBAF22CBF848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677CF8D9-4059-4DAC-91CD-EBAF22CBF848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89189FDD-6818-4E02-99A0-FC88853D0BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89189FDD-6818-4E02-99A0-FC88853D0BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89189FDD-6818-4E02-99A0-FC88853D0BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89189FDD-6818-4E02-99A0-FC88853D0BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6609C57-AB06-4E46-90AE-CD9FA0CD787F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6609C57-AB06-4E46-90AE-CD9FA0CD787F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6609C57-AB06-4E46-90AE-CD9FA0CD787F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6609C57-AB06-4E46-90AE-CD9FA0CD787F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BABDD410-6E76-4558-8082-F921D38797CE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+D:\BBL - Copy\Jsonstructure\bin\Debug\Jsonstructure.dll
+D:\BBL - Copy\Jsonstructure\bin\Debug\Jsonstructure.pdb
+D:\BBL - Copy\Jsonstructure\obj\Debug\Jsonstructure.csproj.CoreCompileInputs.cache
+D:\BBL - Copy\Jsonstructure\obj\Debug\Jsonstructure.dll
+D:\BBL - Copy\Jsonstructure\obj\Debug\Jsonstructure.pdb
+D:\PaymentBBL\PaymentBBL\Jsonstructure\bin\Debug\Jsonstructure.dll
+D:\PaymentBBL\PaymentBBL\Jsonstructure\bin\Debug\Jsonstructure.pdb
+D:\PaymentBBL\PaymentBBL\Jsonstructure\obj\Debug\Jsonstructure.csproj.CoreCompileInputs.cache
+D:\PaymentBBL\PaymentBBL\Jsonstructure\obj\Debug\Jsonstructure.dll
+D:\PaymentBBL\PaymentBBL\Jsonstructure\obj\Debug\Jsonstructure.pdb
+C:\OWN\PaymentBBL\PaymentBBL\Jsonstructure\bin\Debug\Jsonstructure.dll
+C:\OWN\PaymentBBL\PaymentBBL\Jsonstructure\bin\Debug\Jsonstructure.pdb
+C:\OWN\PaymentBBL\PaymentBBL\Jsonstructure\obj\Debug\Jsonstructure.csproj.CoreCompileInputs.cache
+C:\OWN\PaymentBBL\PaymentBBL\Jsonstructure\obj\Debug\Jsonstructure.dll
+C:\OWN\PaymentBBL\PaymentBBL\Jsonstructure\obj\Debug\Jsonstructure.pdb
+D:\PaymentBBL\PaymentBBL\Jsonstructure\obj\Debug\Jsonstructure.csprojAssemblyReference.cache
+D:\Project BBL\PaymentBBL\PaymentBBL\Jsonstructure\bin\Debug\Jsonstructure.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\Jsonstructure\bin\Debug\Jsonstructure.pdb
+D:\Project BBL\PaymentBBL\PaymentBBL\Jsonstructure\obj\Debug\Jsonstructure.csproj.CoreCompileInputs.cache
+D:\Project BBL\PaymentBBL\PaymentBBL\Jsonstructure\obj\Debug\Jsonstructure.dll
+D:\Project BBL\PaymentBBL\PaymentBBL\Jsonstructure\obj\Debug\Jsonstructure.pdb
+D:\Project BBL\PaymentBBL\PaymentBBL\Jsonstructure\obj\Debug\Jsonstructure.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\OWN\PaymentBBL\PaymentBBL\QRcodeGen\bin\Debug\QRcodeGen.dll
+C:\OWN\PaymentBBL\PaymentBBL\QRcodeGen\bin\Debug\QRcodeGen.pdb
+C:\OWN\PaymentBBL\PaymentBBL\QRcodeGen\bin\Debug\zxing.dll
+C:\OWN\PaymentBBL\PaymentBBL\QRcodeGen\bin\Debug\zxing.presentation.dll
+C:\OWN\PaymentBBL\PaymentBBL\QRcodeGen\bin\Debug\zxing.pdb
+C:\OWN\PaymentBBL\PaymentBBL\QRcodeGen\bin\Debug\zxing.xml
+C:\OWN\PaymentBBL\PaymentBBL\QRcodeGen\bin\Debug\zxing.presentation.pdb
+C:\OWN\PaymentBBL\PaymentBBL\QRcodeGen\bin\Debug\zxing.presentation.xml
+C:\OWN\PaymentBBL\PaymentBBL\QRcodeGen\obj\Debug\QRcodeGen.csprojAssemblyReference.cache
+C:\OWN\PaymentBBL\PaymentBBL\QRcodeGen\obj\Debug\QRcodeGen.csproj.CoreCompileInputs.cache
+C:\OWN\PaymentBBL\PaymentBBL\QRcodeGen\obj\Debug\QRcodeGen.csproj.CopyComplete
+C:\OWN\PaymentBBL\PaymentBBL\QRcodeGen\obj\Debug\QRcodeGen.dll
+C:\OWN\PaymentBBL\PaymentBBL\QRcodeGen\obj\Debug\QRcodeGen.pdb
